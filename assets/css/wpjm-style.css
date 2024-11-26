@@ -1,0 +1,12 @@
+/* wpjm-style.css */
+.job-listing {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin: 10px 0;
+    background-color: #f9f9f9;
+}
+
+.job-listing .job-title {
+    font-size: 18px;
+    font-weight: bold;
+}
